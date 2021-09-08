@@ -1,4 +1,6 @@
 # kblast: a simple web search engine
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fomasanori%2Fkblast.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fomasanori%2Fkblast?ref=badge_shield)
+
 
 kblast is an implementation of web search engine with its crawler forked from
 Gigablast.
@@ -15,3 +17,7 @@ As a result, kblast is currently not buildable.
 
 The goal of the kblast project is making a search engine small enough to
 self-host and simple enough to understand and hack.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fomasanori%2Fkblast.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fomasanori%2Fkblast?ref=badge_large)
